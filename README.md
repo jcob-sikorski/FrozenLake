@@ -17,4 +17,4 @@ The agent will then begin learning and playing the game. You can adjust the para
 
 ## Results
 
-The RL agent has been trained using the Q-learning algorithm to achieve high scores in the FrozenLake game. You can find the results and analysis of the agent's performance in the results.md file.
+The RL agent has been trained using the Q-learning algorithm to achieve high scores in the FrozenLake game. You can find the results and analysis of the agent's performance in the results.txt file.
