@@ -11,9 +11,9 @@ To run the code, you need to have Python 3, jupyter notebook and the gymnasium t
 
 ## Usage
 
-The main file for the FrozenLake game is frozen_lake.ipynb.
+The main file for the FrozenLake game is frozen_lake.py.
 
-The agent will then begin learning and playing the game. You can adjust the parameters of the Q-learning algorithm and the game environment in the frozen_lake.ipynb file.
+The agent will then begin learning and playing the game. You can adjust the parameters of the Q-learning algorithm and the game environment in the frozen_lake.py file.
 
 ## Results
 
